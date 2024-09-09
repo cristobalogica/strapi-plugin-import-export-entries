@@ -1,5 +1,5 @@
 {
-  "name": "@ilogica/strapi-plugin-import-export-entries",
+  "name": "strapi-plugin-import-export-entries-fork-for-v4",
   "version": "2.0.0",
   "description": "Import/Export data from and to your database in just few clicks.",
   "strapi": {
@@ -98,5 +98,6 @@
     "url": "git+https://github.com/cristobalogica/strapi-plugin-import-export-entries.git"
   },
   "homepage": "https://github.com/cristobalogica/strapi-plugin-import-export-entries",
-  "license": "MIT"
+  "license": "MIT",
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
